@@ -1,6 +1,8 @@
 Machine Learning Based Vehicle Performance Analyzer
 Category: Machine Learning
 
+Members: Evans Elias Desikan, Beniel Richard B, Dhanush M, Annabathula Rohith
+
 Skills Required:
 Python,Python Web Frame Works,Python For Data Visualization,Data Preprocessing Techniques,Machine Learning,IBM Cloud,IBM Watson Studio,Python-Flask
 
